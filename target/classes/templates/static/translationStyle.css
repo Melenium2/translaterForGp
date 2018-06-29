@@ -1,0 +1,39 @@
+textarea
+{
+  width: 500px;
+  height: 120px;
+  resize: none;
+  text-align: justify;
+}
+
+#firstColumn
+{
+  position: relative;
+}
+
+.style-for-cards
+{
+  width: 300px;
+  height: auto;
+}
+
+.button-area
+{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.trans-textarea
+{
+  position: absolute;
+  display: none;
+  z-index: -1;
+}
+
+.is-click-button-translate
+{
+  width: 150px;
+  height: auto;
+}
+
